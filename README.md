@@ -1,4 +1,1 @@
-imperialmanila.github.io
-========================
-
-site content
+[Imperial Manila](http://imperialmanila.com)
